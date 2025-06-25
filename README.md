@@ -2,7 +2,7 @@
 
 A sleek, dark-themed personal productivity calendar that helps you track your day-to-day progress with visual feedback. Built to be offline, private, and super easy to use.
 
-![Calendar Preview](assets/outlook.png)
+![Calendar Preview](assets/CalendarPreview.png)
 
 ---
 
